@@ -1,3 +1,5 @@
+theme: jekyll-theme-midnight
+
 test
 Hi I'm Fluffins
 ![picture](H1920_artsy_2181.jpg)
