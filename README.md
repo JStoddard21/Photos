@@ -1,6 +1,10 @@
 Hi I'm Fluffins
 ![picture](H1920_artsy_2181.jpg)
 
+
+You can use the [tester](https://github.com/JStoddard21/photos/test.md)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/JStoddard21/photos/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
