@@ -2,7 +2,7 @@ Hi I'm Fluffins
 ![picture](H1920_artsy_2181.jpg)
 
 
-You can use the [tester](https://github.com/JStoddard21/photos/test.md)
+You can use the [tester](https://github.com/JStoddard21/Photos/test.md)
 
 
 ## Welcome to GitHub Pages
